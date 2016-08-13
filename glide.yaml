@@ -1,0 +1,3 @@
+package: github.com/b00giZm/golexa
+import:
+- package: github.com/stretchr/testify

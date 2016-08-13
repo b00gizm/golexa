@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "sessionAttributes": {
+    "supportedHoriscopePeriods": {
+      "daily": true,
+      "weekly": false,
+      "monthly": false
+    }
+  },
+  "response": {
+    "outputSpeech": {
+      "type": "PlainText",
+      "text": "Today will provide you a new learning opportunity."
+    },
+    "card": {
+      "type": "Simple",
+      "title": "Horoscope",
+      "content": "Today will provide you a new learning opportunity."
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "PlainText",
+        "text": "Can I help you with anything else?"
+      }
+    },
+    "shouldEndSession": false
+  }
+}
