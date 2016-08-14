@@ -71,6 +71,7 @@ func (t *timestamp) ToTime() time.Time {
 }
 
 type Intent struct {
+	Name string `json:"name"`
 	Slots map[string]Slot `json:"slots"`
 }
 
