@@ -1,6 +1,6 @@
 # golexa
 
-A little Go library to easily handle Alexa custom skill requests, conforming to the official [Alexa Skill Kit JSON reference](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-interface-reference#outputspeech-object).
+A little Go library to easily handle Alexa custom skill requests, conforming to the official [Alexa Skill Kit JSON reference](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-interface-reference).
 
 ## Example
 
