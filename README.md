@@ -48,7 +48,7 @@ app.OnIntent(func(a *Alexa, intent *Intent, req *Request, session *Session) *Res
 app.OnSessionEnded(func(a *Alexa, req *Request, session *Session) *Response) { ... })
 ```
 
-Every handler has a `*golexa.Alexa` pointer as first paramater, which gives you access to several convenience methods for quickly building response objects.
+Every handler has a `*golexa.Alexa` pointer as first parameter, which gives you access to several convenience methods for quickly building response objects.
 
 ## Your Own Handler Types
 
