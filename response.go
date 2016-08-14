@@ -34,7 +34,6 @@ type innerResponse struct {
 
 type OutputSpeech struct {
 	Type  string `json:"type"`
-	Title string `json:"title"`
 	Text  string `json:"text,omitempty"`
 	SSML  string `json:"ssml,omitempty"`
 }
