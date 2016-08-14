@@ -98,8 +98,8 @@ The main motivation for this library was to have something which plays nicely wi
 package main
 
 import (
-        "github.com/b00giZm/golexa"
         "github.com/apex/go-apex"
+        "github.com/b00giZm/golexa"
 )
 
 func main() {
@@ -114,7 +114,7 @@ func main() {
 }
 ```
 
-Boom! Done.
+Boom! Done 🎉
 
 ## Development
 
